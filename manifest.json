@@ -1,0 +1,30 @@
+{
+  "short_name": "Tic-Tac-Toe",
+  "name": "Tic-Tac-Toe ---PrabuSelvam ---React",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "960x960",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "src.png",
+      "type": "image/png",
+      "sizes": "960x960"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
